@@ -18,4 +18,4 @@ The application is a command line interface written in Javascript, node.JS, and 
 
 Please refer to this demo gif to see how the application works:
 
-![]/Users/bosco/OneDrive/Nzibosco/vanderbilt coding bootcamp/Classes/assignments/bamazon/bamazon.gif 
+![bamazonDemo](/Users/bosco/OneDrive/Nzibosco/vanderbilt coding bootcamp/Classes/assignments/bamazon/bamazon.gif)
