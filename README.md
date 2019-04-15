@@ -18,5 +18,5 @@ The application is a command line interface written in Javascript, node.JS, and 
 
 Please refer to this demo gif to see how the application works:
 
-![](bamazon/bamazon.gif); 
+![bamazon demo gif](bamazon/bamazon.gif); 
 
