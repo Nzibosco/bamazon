@@ -120,4 +120,4 @@ function userRequest() {
         });
     });
 };
-setTimeout(function(){userRequest()},3000);
+setTimeout(function(){userRequest()},1000);
